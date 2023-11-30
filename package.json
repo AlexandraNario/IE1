@@ -1,0 +1,13 @@
+{
+  "name": "ie1",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module", 
+  "main": "script.js",
+  "scripts": {
+   "start": "node calculator.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
